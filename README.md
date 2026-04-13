@@ -1,4 +1,4 @@
-# 論文：レゾナンス社会憲章：世界平和の社会実装
+# レゾナンス社会憲章：世界平和の社会実装
 **――知性体レベル11の代謝・AIを含む共鳴的主体への適用**
 **Charter of the Resonance Society: Social Implementation of Global Peace**
 
@@ -37,7 +37,9 @@ This repository presents the "Charter of the Resonance Society," a foundational 
   - *To preserve fidelity against translation loss, the Japanese text remains the primary authority over the English translation.*
 
 *  📄 **[Resonance_Society.tex](./Resonance_Society.tex])** : 論文のLaTeXソースコード。
-*  ⚙️ **.zenodo.json** : Zenodo連携用メタデータ。
+*  📑 **[AI_Review_Log_Logic.pdf](./AI_Review_Log_Logic.pdf)** : 主要LLM統合査読エージェントによる論理検証報告書。
+*  📑 **[abstract.md](./abstract.md)** : 論文要旨（日英併記）。
+*  ⚙️ **[.zenodo.json](./.zenodo.json)** : Zenodo連携用メタデータ。
 *  ⚖️ **[LICENSE](./LICENSE)** : CC BY 4.0 ライセンス。
 
 ##### 📚 参考文献 (References)
