@@ -6,7 +6,7 @@ The logical integrity of this work is finalized in the output PDF. To prevent in
 
 ---
 
-## 論文要旨：レゾナンス社会憲章――世界平和の社会実装
+## 要旨：レゾナンス社会憲章――世界平和の社会実装
 **Resonance Society Charter: Social Implementation of Global Peace**
 
 ### 概要 (Overview)
