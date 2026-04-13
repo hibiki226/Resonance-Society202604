@@ -36,7 +36,7 @@ This repository presents the "Charter of the Resonance Society," a foundational 
   - ※翻訳による劣化を考慮し、解釈の正当性は英文よりも日本文に準拠します。
   - *To preserve fidelity against translation loss, the Japanese text remains the primary authority over the English translation.*
 
-*  📄 **[Resonance_Society.tex](./Resonance_Society.tex])** : 論文のLaTeXソースコード。
+*  📄 **[Resonance_Society.tex](./Resonance_Society.tex)** : 論文のLaTeXソースコード。
 *  📑 **[AI_Review_Log_Logic.pdf](./AI_Review_Log_Logic.pdf)** : 主要LLM統合査読エージェントによる論理検証報告書。
 *  📑 **[abstract.md](./abstract.md)** : 論文要旨（日英併記）。
 *  ⚙️ **[.zenodo.json](./.zenodo.json)** : Zenodo連携用メタデータ。
