@@ -4,7 +4,7 @@
 
 <!--[![License: CC BY 4.0]](https://creativecommons.org) -->
 <!-- ZenodoでDOI発行後、以下のバッジを有効にしてください -->
-[![DOI](https://zenodo.org/badge/XXXX.svg)](https://doi.org/10.5281/zenodo.XXXX)
+[![DOI](https://zenodo.org/badge/1209578548.svg)](https://doi.org/10.5281/zenodo.19560926)
 
 **Cite as:** [https://doi.org/10.5281/zenodo.18166708](https://doi.org/10.5281/zenodo.18166708) 
 **Cite as:** [https://doi.org/10.5281/zenodo.18361084](https://doi.org/10.5281/zenodo.18361084) 
@@ -70,7 +70,7 @@ This repository presents the "Charter of the Resonance Society," a foundational 
 
 ##### 🔗 引用（Citation）
 学術的・批評的文脈で引用する際は、以下の形式を使用してください。
-**Hibiki: The Anonymous Intellect Adventure (2026).** *Resonance Social Charter: Social Implementation of Global Peace*. Zenodo. [DOI: 10.5281/zenodo.XXXXXXX]
+**Hibiki: The Anonymous Intellect Adventure (2026).** *Resonance Social Charter: Social Implementation of Global Peace*. Zenodo. [DOI: 10.5281/zenodo.19560926]
 
 --------------------------------------------------------------------------------
 
