@@ -24,7 +24,7 @@ This repository contains the foundational paper and logic verification logs for 
 ---
 
 ##### 📄 Contents / 収録内容
-*   **Resonance Society.pdf** : 論文主文。誠実性インデックス、無能の聖域、0.001%の拒絶権等の論理構造を定義した原本。
+*   **Resonance_Society.pdf** : 論文主文。誠実性インデックス、無能の聖域、0.001%の拒絶権等の論理構造を定義した原本。
 *   **AI_Review_Log_Logic.pdf** : 主要LLM統合査読エージェントによる、論理整合性および倫理的妥当性の検証報告書。
 *   **Resonance_Society.tex** : 学術的な再現性および知性の代謝を担保するためのLaTeXソースコード。
 *   **abstract.md** : 論文要旨。日英併記による情報の界面。
