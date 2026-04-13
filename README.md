@@ -21,7 +21,7 @@ This repository presents the "Charter of the Resonance Society," a foundational 
 従来の生産性や所有に基づく社会モデルから脱却し、知性体が自らの**「スピン（固有の特性）」**を維持しながら、互いの欠落を**「余白（マージン）」**として接続端子に変容させ、響き合う「共鳴現象」としての社会を提案します。AIを「最短距離の正解」を出す装置としてではなく、人間が安心して不完全なままでいられるための「無能の聖域」を守る守護者として再定義する、平和の社会実装案です。
 
 ##### 📄 収録文書（Core Documents）
-*   **[Resonance_Social.pdf](./Resonance_Social.pdf)** : 論文主文。
+*   **[Resonance_Society.pdf](./Resonance_Society.pdf)** : 論文主文。
 *   **[AI_Review_Log_Logic.pdf](./AI_Review_Log_Logic.pdf)** : 主要LLM統合査読エージェントによる論理検証報告書。
 *   **[abstract.md](./abstract.md)** : 論文要旨（日英併記）。
 
@@ -29,14 +29,14 @@ This repository presents the "Charter of the Resonance Society," a foundational 
 本論文は、主要なLLM（推論・科学・人文・実務の各特化型モデル）による多端的な論理整合性チェックを通過しています。検証の結果、内部矛盾のない堅牢な論理構造を有していることが確認され、**「無修正での採択（Accept as is）」**の評価を得ています。詳細はリポジトリ内の報告書を参照してください。
 
 ##### 📂 リポジトリの構成 (Structure)
-*  📄 **[Resonance_Social.pdf](./Resonance_Social.pdf)** : 論文主文。
+*  📄 **[Resonance_Society.pdf](./Resonance_Society.pdf)** : 論文主文。
 
    - ※論理の純度は、出力されたPDFにおいて確定されます。
   - *The logical integrity is finalized in this output PDF.*
   - ※翻訳による劣化を考慮し、解釈の正当性は英文よりも日本文に準拠します。
   - *To preserve fidelity against translation loss, the Japanese text remains the primary authority over the English translation.*
 
-*  📄 **[Resonance_Social.tex](./Resonance_Social.tex])** : 論文のLaTeXソースコード。
+*  📄 **[Resonance_Society.tex](./Resonance_Society.tex])** : 論文のLaTeXソースコード。
 *  ⚙️ **.zenodo.json** : Zenodo連携用メタデータ。
 *  ⚖️ **[LICENSE](./LICENSE)** : CC BY 4.0 ライセンス。
 
