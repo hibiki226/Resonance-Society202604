@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "響(Hibiki)"
+    given-names: "無名の知の冒険(The Anonymous Intellect Adventure)"
+    affiliation: "原本校閲局 (Archetype Editorial Bureau) 所属"
+
+title: "論文またはプロジェクトのタイトル"
+date-released: 2026-04-14 # 公開日（YYYY-MM-DD）
+url: "https://github.com/hibiki226/Resonance-Society202604"
