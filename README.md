@@ -12,10 +12,10 @@
 --------------------------------------------------------------------------------
 
 ##### 🌌 概要（Overview）
-本リポジトリは、2026年7月30日に確定された。<BR>
+本リポジトリは、2026年08月03日に確定された。<BR>
 2026/4/10:初期リリース2026/4/10<BR>
 2026/07/01:本文修正（原本ログ→告知ログ）2026/07/01<BR>
-2026/7/30:【補足説明】以下の修正とリリース 2026/07/30  PDFのみ更新<BR>
+2026/7/30:【補足説明】以下の修正とリリース 2026/08/03  PDFのみ更新<BR>
 
 
 This charter states that "living true to oneself" is synonymous with "world peace (at least a society where everyone can accept the incompetence of others)."  
